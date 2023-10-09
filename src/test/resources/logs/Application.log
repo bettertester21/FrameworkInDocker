@@ -1,0 +1,15 @@
+02:15:26.340 [main] INFO  - In start of the setUp()
+02:15:26.351 [main] INFO  - Config file is loaded!
+02:15:26.352 [main] INFO  - Config file is loaded!
+02:15:46.322 [main] INFO  - In onStart()
+02:15:46.628 [TestNG-test=Login Test-1] INFO  - In start of the getData()
+02:15:46.794 [TestNG-test=Login Test-1] INFO  - In end of the getData()
+02:15:47.009 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+02:15:50.888 [TestNG-test=Login Test-1] INFO  - In onTestSkipped()
+02:16:26.534 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+02:16:26.650 [TestNG-test=Login Test-1] INFO  - In onTestSkipped()
+02:16:29.543 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+02:16:29.638 [TestNG-test=Login Test-1] INFO  - In onTestSkipped()
+02:16:34.639 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+02:16:34.742 [TestNG-test=Login Test-1] INFO  - In onTestSkipped()
+02:16:42.018 [main] INFO  - In onFinish()
